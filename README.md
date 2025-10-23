@@ -1,5 +1,7 @@
 # HydrogelPowerSources_ML_Optimization
 
+[![DOI](https://zenodo.org/badge/1033995995.svg)](https://doi.org/10.5281/zenodo.17421519)
+
 MATLAB code for the study: "Design optimization of electric-fish-inspired power sources using statistical and machine learning approaches"
 
 Haley M. Tholen, Ahmed S. Mohamed, Valentino I. Wilson, Derek M. Hall, and Joseph S. Najem
